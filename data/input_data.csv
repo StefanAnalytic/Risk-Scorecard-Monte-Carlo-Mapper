@@ -1,0 +1,5 @@
+Option,Kosten,Risk_K,Zeit,Risk_Z,Fit,Risk_F
+Salesforce,220000,0.05,4,0.10,9,0.05
+Microsoft Dynamics,160000,0.15,9,0.20,8,0.10
+Odoo,45000,0.45,14,0.45,6,0.30
+Custom Build,350000,0.20,18,0.15,10,0.05
